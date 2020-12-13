@@ -1,0 +1,105 @@
+{
+    "smarts": [
+      {
+        "id": 0,
+        "imageUrl": "https://sintetiki.net/images/product/20387/1656/p40-pro-black.png",
+        "name": "Huawei P40 Pro",
+        "types": [0, 1],
+        "sizes": [128, 256],
+        "price": 75000,
+        "category": 4,
+        "rating": 4
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://sintetiki.net/images/product/20340/1520/k30.png",
+        "name": "Xiaomi Redmi K30",
+        "types": [0],
+        "sizes": [64, 128],
+        "price": 23000,
+        "category": 1,
+        "rating": 6
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://sintetiki.net/images/product/20341/1645/k30-pro-black.png",
+        "name": "Xiaomi Redmi K30 Pro",
+        "types": [0],
+        "sizes": [128, 256],
+        "price": 25000,
+        "category": 1,
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://sintetiki.net/images/product/20447/1742/realme-7-pro-blue.png",
+        "name": "Realme 7 Pro",
+        "types": [1],
+        "sizes": [128, 256],
+        "price": 26300,
+        "category": 2,
+        "rating": 2
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://sintetiki.net/images/product/20319/1371/7.2-gr.png",
+        "name": "Nokia 7.2",
+        "types": [0],
+        "sizes": [64, 128],
+        "price": 16500,
+        "category": 3,
+        "rating": 8
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://sintetiki.net/images/product/20434/1704/realme%20x50%20pro%20player.png",
+        "name": "Realme 7",
+        "types": [0],
+        "sizes": [64, 128],
+        "price": 17000,
+        "category": 2,
+        "rating": 2
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://htstatic.imgsmail.ru/pic_image/83e8ea0a3ddd9809aeaf68b835af675a/450/450/1845921/",
+        "name": "Xiaomi Mi Note 10 Lite",
+        "types": [0, 1],
+        "sizes": [64, 128],
+        "price": 22300,
+        "category": 1,
+        "rating": 9
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://i01.appmifile.com/webfile/globalimg/Cindy/J3SSilvery.png",
+        "name": "Xiaomi Mi 10 Pro",
+        "types": [0, 1],
+        "sizes": [128, 256],
+        "price": 46000,
+        "category": 1,
+        "rating": 10
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://sintetiki.net/images/product/11360/154/huawei-p20-pro.png",
+        "name": "Huawei Mate 20 Pro",
+        "types": [0, 1],
+        "sizes": [64, 128, 256],
+        "price": 45000,
+        "category": 4,
+        "rating": 10
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://sintetiki.net/images/product/19000/465/Huawei-Mate-20X-silver.png",
+        "name": "Huawei Mate 20X",
+        "types": [0, 1],
+        "sizes": [128, 256],
+        "price": 52000,
+        "category": 4,
+        "rating": 7
+      }
+    ]
+  }
+  
