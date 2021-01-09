@@ -49,7 +49,6 @@ function SmartBlock({ id, name, price, imageUrl, sizes, types, onClickAddSmart, 
                   active: activeType === index,    // если хук равен индексу элемента то класс "active" 
                   disabled: !types.includes(index), // если в объекте из json types нет индекса то класс disabled 
                 })}>{type}</li>))}
-
           </ul>
           <ul>
             {availableSizes.map((elem, index) => (
