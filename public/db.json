@@ -2,7 +2,7 @@
     "smarts": [
       {
         "id": 0,
-        "imageUrl": "https://sintetiki.net/images/product/20387/1656/p40-pro-black.png",
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/1750349/img_id3610049514281737855.jpeg/14hq",
         "name": "Huawei P40 Pro",
         "types": [0, 1],
         "sizes": [128, 256],
@@ -22,7 +22,7 @@
       },
       {
         "id": 2,
-        "imageUrl": "https://sintetiki.net/images/product/20341/1645/k30-pro-black.png",
+        "imageUrl": "https://gigant-store.ru/image/catalog/Smartfon/Redmi/K30%20Pro/xiaomi-redmi-k30-pro-6.jpg",
         "name": "Xiaomi Redmi K30 Pro",
         "types": [0],
         "sizes": [128, 256],
@@ -32,7 +32,7 @@
       },
       {
         "id": 3,
-        "imageUrl": "https://sintetiki.net/images/product/20447/1742/realme-7-pro-blue.png",
+        "imageUrl": "https://3dnews.ru/assets/external/illustrations/2020/09/03/1019790/rm1.jpg",
         "name": "Realme 7 Pro",
         "types": [1],
         "sizes": [128, 256],
@@ -42,7 +42,7 @@
       },
       {
         "id": 4,
-        "imageUrl": "https://sintetiki.net/images/product/20319/1371/7.2-gr.png",
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/1591646/img_id6395984261156907087.jpeg/14hq",
         "name": "Nokia 7.2",
         "types": [0],
         "sizes": [64, 128],
@@ -52,7 +52,7 @@
       },
       {
         "id": 5,
-        "imageUrl": "https://sintetiki.net/images/product/20434/1704/realme%20x50%20pro%20player.png",
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5232180/img_id1636112997882681738.jpeg/orig",
         "name": "Realme 7",
         "types": [0],
         "sizes": [64, 128],
@@ -82,7 +82,7 @@
       },
       {
         "id": 8,
-        "imageUrl": "https://sintetiki.net/images/product/11360/154/huawei-p20-pro.png",
+        "imageUrl": "https://img.gkbcdn.com/s3/p/2018-10-18/huawei-mate-20-pro-6-39-inch-8gb-256gb-smartphone-bright-black-1572312378173.jpg",
         "name": "Huawei Mate 20 Pro",
         "types": [0, 1],
         "sizes": [64, 128, 256],
@@ -92,7 +92,7 @@
       },
       {
         "id": 9,
-        "imageUrl": "https://sintetiki.net/images/product/19000/465/Huawei-Mate-20X-silver.png",
+        "imageUrl": "https://smarfony.ru/wp-content/uploads/2019/08/Huawei-Mate-20-X.jpg",
         "name": "Huawei Mate 20X",
         "types": [0, 1],
         "sizes": [128, 256],
